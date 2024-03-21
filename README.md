@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 
 Pour les français : 
-Salut ! Moi c'est Batyste, j'ai actuellement 19 ans et j'aime bien le developpement web.
+Salut ! Moi c'est Batyste, j'ai actuellement 20 ans et j'aime bien le developpement web.
 C'est pour ça que je vais faire une poursuite d'étude en tant que Developpement Web Fullstacks et DevOps !
 
 <!---
